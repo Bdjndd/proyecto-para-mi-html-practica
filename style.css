@@ -1,0 +1,28 @@
+.contenedor{
+    display: flex;
+
+}
+.imagen{
+    width: 400px;
+    margin: 10px;
+}
+body{
+    background-image: url(fondo\ de\ cuasar.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 4000;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+
+}
+p{
+    color: white;
+}
+.negro {
+        color: black;
+        
+    }
